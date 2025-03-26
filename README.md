@@ -1,10 +1,10 @@
-#Keylogger Using Python (For Educational Purposes Only)
+# Keylogger Using Python (For Educational Purposes Only)
 
-##Description
+## Description
 
 This is a simple keylogger built using Python and the pynput library. It captures keystrokes and logs them into a text file. This project is intended for educational and ethical cybersecurity research purposes only.
 
-##Features
+## Features
 
 Logs all keystrokes (including special keys)
 
@@ -35,11 +35,12 @@ python keylogger.py
 
 Press the Esc key to stop the keylogger.
 
-Disclaimer
+## Disclaimer
 
 This project is strictly for ethical and educational purposes. Do not use it to log keystrokes without explicit permission, as unauthorized use is illegal and violates privacy laws.
 
-License
+## License
+This project is licensed under the [MIT License](./LICENSE).
 
 
 
