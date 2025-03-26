@@ -22,7 +22,7 @@ Usage
 
 Clone this repository:
 ```
-git clone https://github.com/yourusername/keylogger-project.git
+git clone https://github.com/hf3cyber/PRODIGY_CS_04.git
 ```
 Navigate to the project folder:
 ```
